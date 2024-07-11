@@ -1,4 +1,4 @@
-# Ebook-Artificial-Intelligenk
+# Artificial Intelligenk: A Ebook
 
 ## 📒 Descrição
 Ebook simples para a maior compreensão da inteligência artificial, seus desafios a serem enfrentados e as novas prespectivas de futuro utilizando-se das amplas ferramentas oferecidas por esse dispositivo.
